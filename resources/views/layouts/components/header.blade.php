@@ -94,7 +94,7 @@
 
                             <a class="nav-link" href="#"><i class="fa fa-cog"></i>Ajustes</a>
 
-                            <a class="nav-link" href="{{url('http://127.0.0.1:8000/')}}"><i class="fa fa-power-off"></i>Salir</a>
+                            <a class="nav-link" href="{{url('http://proyecto-sicv.herokuapp.com/public/index')}}"><i class="fa fa-power-off"></i>Salir</a>
                         </div>
                     </div>
                 </div>
