@@ -280,7 +280,7 @@ function validar(evt) {
     let pass = document.getElementById("pass").value;
 
     if (user == 'admin@correo.com' && pass == '12345') {
-        window.location = '';
+        window.location = 'http://127.0.0.1:8000/dashboard';
         evt.preventDefault();
     }
     else if (user == 'cliente@correo.com' && pass == '12345') {

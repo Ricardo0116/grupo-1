@@ -82,7 +82,7 @@ FACEBOOK: https://www.facebook.com/themefisher
 							</div>
 							
 							<!-- Submit Button -->
-							<a href="index.html" type="button" class="btn btn-danger ">CANCELAR </a>
+							<a href="{{url('http://127.0.0.1:8000/')}}" type="button" class="btn btn-danger ">CANCELAR </a>
 							<input href="" type="submit" class="btn btn-success" value="ENVIAR">
 						</form>
 						<div class="new-acount">
